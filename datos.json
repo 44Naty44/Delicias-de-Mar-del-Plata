@@ -1,0 +1,6 @@
+{
+    "pizzas": {
+        "muzzarella": {"nombre": "muzzarella", "cantidad": 5},
+        "carne-desmechada": {"nombre": "carne desmechada", "cantidad": 5}
+    }
+}
